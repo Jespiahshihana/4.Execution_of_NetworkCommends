@@ -46,7 +46,7 @@ This commands includes
 ## ARP
 ![Screenshot 2024-10-19 210701](https://github.com/user-attachments/assets/98cd8d15-23a4-42da-93a1-4cb0c3714028)
 ## SYSTEM INFO
-![Screenshot 2024-10-19 210813](https://github.com/user-attachments/assets/9563669c-9e93-469d-a129-13ab5cc9b924)
+![378099556-9563669c-9e93-469d-a129-13ab5cc9b924](https://github.com/user-attachments/assets/7f89e560-dee3-4c85-8e92-871c63270fd5)
 
 
 ## Result
